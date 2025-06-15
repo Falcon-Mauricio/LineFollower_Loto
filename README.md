@@ -1,6 +1,6 @@
 # 🌸 LineFollower Loto
 
-**Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca). Su diseño está inspirado en los pétalos de una flor, combinando estética y funcionalidad para lograr un alto rendimiento.
+**Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca). Su diseño está inspirado en los pétalos de una flor.
 
 <img src="https://github.com/user-attachments/assets/8999e1db-1d49-440c-828d-bb2f2d2a5fef" alt="VistaInferior_Loto" width="400"/>
 
