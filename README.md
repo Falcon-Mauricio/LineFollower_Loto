@@ -2,6 +2,8 @@
 
 **Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca). Su diseño está inspirado en los pétalos de una flor, combinando estética y funcionalidad para lograr un alto rendimiento.
 
+<img src="https://github.com/user-attachments/assets/8999e1db-1d49-440c-828d-bb2f2d2a5fef" alt="VistaInferior_Loto" width="400"/>
+
 ---
 
 ## 🚀 Características principales
@@ -31,8 +33,8 @@
 | GPIO32 | QRE sensor 6 |
 | GPIO35 | QRE sensor 7 |
 | GPIO34 | QRE sensor 8 |
-| GPIO17 | Boton 1 |
-| GPIO16 | Boton 2 |
+| GPIO17 | Pulsador 1 |
+| GPIO16 | Pulsador 2 |
 
 ### Salidas (motores y otros)
 | Pin ESP32 | Descripción |
