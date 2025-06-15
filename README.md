@@ -10,7 +10,7 @@
 
 | Especificación | Detalle |
 |----------------|---------|
-| **Dimensiones** | 128 mm (ancho) x 157 mm (largo) |
+| **Dimensiones** | 138 mm (ancho) x 157 mm (largo) |
 | **Chasis** | PCB estructural + soporte de motores impreso en PLA |
 | **Batería** | LiPo 3S 350 mAh |
 | **Microcontrolador** | ESP32 |
