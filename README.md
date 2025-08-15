@@ -1,10 +1,11 @@
 # 🌸 LineFollower Loto
 
-**Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca) organizada por la **LNR**. Su diseño está inspirado en los pétalos de una flor.
+**Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca) organizada por la **<a href="https://lnr-argentina.com.ar/" target="_blank">LNR</a>**. Su diseño está inspirado en los pétalos de una flor loto.
 
 <div align="center">
   <img src="./4_assets/real_loto_V2.jpg" alt="VistaInferior_Loto" width="400"/>
 </div>
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
   <img src="./4_assets/VistaInferior_Loto_V2.png" alt="VistaInferior_Loto_V2" width="400"/>
   <img src="./4_assets/VistaSuperior_Loto_V2.png" alt="VistaSuperior_Loto" width="400"/>
@@ -28,7 +29,13 @@
 
 ## ⚡ Entradas / Salidas (I/O)
 
+<table>
+<tr>
+
+<td>
+
 ### Entradas (sensores y botones)
+
 | Pin ESP32 | Descripción |
 |-----------|-------------|
 | GPIO13 | QRE sensor 1 |
@@ -42,7 +49,12 @@
 | GPIO17 | Pulsador 1 |
 | GPIO16 | Pulsador 2 |
 
+</td>
+
+<td>
+
 ### Salidas (motores y otros)
+
 | Pin ESP32 | Descripción |
 |-----------|-------------|
 | GPIO19 | PWM A Motor 1 |
@@ -52,6 +64,11 @@
 | GPIO04 | LED 1 |
 | GPIO05 | LED 2 |
 | GPIO18 | BUZZER |
+
+</td>
+
+</tr>
+</table>
 
 ---
 
