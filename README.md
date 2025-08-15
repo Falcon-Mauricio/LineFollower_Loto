@@ -1,6 +1,6 @@
 # 🌸 LineFollower Loto
 
-**Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca) organizada por la **<a href="https://lnr-argentina.com.ar/" target="_blank">LNR</a>**. Su diseño está inspirado en los pétalos de una flor loto.
+**Loto** es un robot seguidor de línea diseñado para competir en la disciplina de **<a href="https://lnr-argentina.com.ar/reglamentos/Reglamento%20Carrera.pdf" target="_blank">Carrera</a>** (fondo negro con línea blanca) organizada por la **<a href="https://lnr-argentina.com.ar/" target="_blank">LNR</a>**. Su diseño está inspirado en los pétalos de una flor loto.
 
 <div align="center">
   <img src="./4_assets/real_loto_V2.jpg" alt="VistaInferior_Loto" width="500"/>
