@@ -1,8 +1,14 @@
 # 🌸 LineFollower Loto
 
-**Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca). Su diseño está inspirado en los pétalos de una flor.
+**Loto** es un robot velocista diseñado para competir en la disciplina de **seguidor de línea** (fondo negro con línea blanca) organizada por la **LNR**. Su diseño está inspirado en los pétalos de una flor.
 
-<img src="https://github.com/user-attachments/assets/8999e1db-1d49-440c-828d-bb2f2d2a5fef" alt="VistaInferior_Loto" width="400"/>
+<div align="center">
+  <img src="./4_assets/real_loto_V2.jpg" alt="VistaInferior_Loto" width="400"/>
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="./4_assets/VistaInferior_Loto_V2.png" alt="VistaInferior_Loto_V2" width="400"/>
+  <img src="./4_assets/VistaSuperior_Loto_V2.png" alt="VistaSuperior_Loto" width="400"/>
+</div>
 
 ---
 
@@ -61,7 +67,8 @@
 
 - `1_hardware_pcb/` → Archivos de KiCad (PCB + esquemas)  
 - `2_hardware_3d/` → Archivos FreeCAD / STL de las piezas impresas
-- `3_firmware/` → Código fuente para el ESP32  
+- `3_firmware/` → Código fuente para el ESP32
+- `4_assets/` → Fotos y videos del robot  
 - `docs/` → Diagramas, esquemas y documentación
 
 ---
